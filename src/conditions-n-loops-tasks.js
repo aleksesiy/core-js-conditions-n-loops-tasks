@@ -206,7 +206,7 @@ function convertNumberToString(numberStr) {
         word = 'point';
         break;
       default:
-        console.log('niggers');
+        word = '';
     }
     if (word !== '') {
       if (result !== '') {
